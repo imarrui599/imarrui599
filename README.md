@@ -15,9 +15,9 @@
   - PHP y Python
   - Adminstracion de Aplicaciones Web
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imarrui599&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imarrui599&hide_progress=false)
 
 ## 👨‍💻 Lenguajes de Programacion
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
