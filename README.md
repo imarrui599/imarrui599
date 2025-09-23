@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**imarrui599/imarrui599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+informatico especializado en admiinstacion de sistemas informaticos
 
-Here are some ideas to get you started:
+🎓 Estudiante de ASIR (Administración de Sistemas Informáticos en Red)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendiendo:
+  - Seguridad Informatica
+  - Redes y sistemas
+  - Virtualizacion (Prommox, VirtualBox)
+  - PHP y Python
+  - Adminstracion de Aplicaciones Web
+
+🚫 Actualmente no estoy trabajando  
+📫 Puedes contactarme en: imarrui599@ieszaidinvergeles.org
