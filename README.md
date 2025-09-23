@@ -11,5 +11,10 @@ informatico especializado en admiinstacion de sistemas informaticos
   - PHP y Python
   - Adminstracion de Aplicaciones Web
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 🚫 Actualmente no estoy trabajando  
+
 📫 Puedes contactarme en: imarrui599@ieszaidinvergeles.org
+
+![
