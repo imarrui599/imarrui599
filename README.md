@@ -12,6 +12,22 @@
 
 ---
 
+## 🕵🏻 Manejo:
+
+- Windows, Linux, IOS
+- Implementación y administración de sistemas operativos
+- Virtualización (Proxmox, VirtualBox...)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/SO-2E8B57?style=for-the-badge&logo=linux&logoColor=white" alt="Sistemas Operativos"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+  <img src="https://img.shields.io/badge/VirtualBox-2D4C6F?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+</p>
+
+---
+
 ## 🌱 Aprendiendo:
   - Seguridad Informatica
   - Redes y sistemas
