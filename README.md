@@ -5,7 +5,7 @@
 🎓 Estudiante de ASIR (Administración de Sistemas Informáticos en Red)  
 
 
-### 📚 Estudios
+### 📚 Estudios:
 
 - Grado Medio en Sistemas Microinformáticos y Redes  
 - E.S.O.
@@ -34,6 +34,8 @@
   - Virtualizacion (Prommox, VirtualBox)
   - PHP y Python
   - Adminstracion de Aplicaciones Web
+
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imarrui599&show_icons=true&theme=dark)
 
