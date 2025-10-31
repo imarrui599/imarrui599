@@ -1,4 +1,4 @@
-# Hola soy Ismael 👋
+# Hola soy Ismael 🫡
 
 ## Informatico especializado en admiinstacion de sistemas informaticos
 
