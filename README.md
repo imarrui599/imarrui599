@@ -1,12 +1,13 @@
 # Hola soy Ismael 🫡
 
-## Informatico especializado en admiinstacion de sistemas informaticos
+## Informatico especializado en adminstacion de sistemas informaticos
 
 🎓 Estudiante de ASIR (Administración de Sistemas Informáticos en Red)  
 
 
 ### 📚 Estudios:
 
+- Grado Superior en Administración de Sistemas Informaticos en Red
 - Grado Medio en Sistemas Microinformáticos y Redes  
 - E.S.O.
 
