@@ -72,14 +72,14 @@
 
 ### 🚫 Estado laboral
 
-Actualmente no estoy trabajando.
+Actualmente estoy trabajando de Tecnico en sistemas microinformaticos.
 
 ---
 
 
 ### 📫 Contacto
 
-Puedes contactarme en: [imarrui599@ieszaidinvergeles.org](mailto:imarrui599@ieszaidinvergeles.org)
+Puedes contactarme en: [imartinruiz92@gmail.com](mailto:imartinruiz92@gmail.com)
 
 ---
 
